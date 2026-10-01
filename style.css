@@ -24,7 +24,6 @@ img {
 
 .card {
     width: 320px;
-    height: 499px;
     background-color: hsl(0, 0%, 100%);
     padding: 16px;
     text-align: center;
@@ -49,4 +48,5 @@ p {
 
 .card-description {
     padding: 0 16px;
+    margin-bottom: 24px;
 }
